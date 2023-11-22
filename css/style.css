@@ -811,6 +811,10 @@ ol {
   margin-top: -180px;
 }
 
+.team__item.team__item--five {
+  margin-top: -240px;
+}
+
 .team__item__text {
   text-align: center;
   position: absolute;
@@ -2083,6 +2087,10 @@ ol {
     margin-top: 0;
   }
 
+  .team__item.team__item--five {
+    margin-top: 0;
+  }
+
   .team__btn {
     position: relative;
     padding-top: 50px;
@@ -2202,6 +2210,10 @@ ol {
   }
 
   .team__item.team__item--four {
+    margin-top: 0;
+  }
+
+  .team__item.team__item--five {
     margin-top: 0;
   }
 
